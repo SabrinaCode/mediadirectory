@@ -1,3 +1,7 @@
+.test {
+  background-color: red;
+}
+
 @font-face {
   font-family: 'EconSans';
   font-weight: 300;
