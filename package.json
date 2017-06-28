@@ -1,0 +1,21 @@
+{
+  "name": "mediadirectory.economist.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^7.11.1",
+    "stylelint-config-strict": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "stylelint": {
+    "extends": [
+      "stylelint-config-strict"
+    ]
+  }
+}
